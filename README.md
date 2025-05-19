@@ -67,6 +67,3 @@ Este análisis ofrece una visión **clara y comprensible** del comportamiento bu
    - ¿Coincidieron en alguna tendencia general?
 
 ---
-
-✨ ¡Gracias por visitar este repositorio!  
-
