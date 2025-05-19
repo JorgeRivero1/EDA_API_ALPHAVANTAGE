@@ -1,5 +1,3 @@
-# EDA_API_ALPHAVANTAGE
-
 # 📊 EDA_API_ALPHAVANTAGE
 
 🔍 _Análisis Exploratorio de Datos del Mercado Bursátil usando la API de Alpha Vantage_
